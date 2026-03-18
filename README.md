@@ -19,7 +19,7 @@ Antes de la implementación, el proceso presentaba fallas críticas de integrida
 ## 🧠 Lógica de Ingeniería y Flujo de Trabajo
 
 ### 1. Ingesta de Datos y Validación (Input)
-Implementé interfaces de captura independientes por sucursal con validación de datos en tiempo real. Utilicé la función `FILTER` para crear cintas desplegables condicionales que aseguran que el cargo y horario seleccionados sean válidos y actuales.
+Implementé interfaces de captura independientes por sucursal con validación de datos en tiempo real. Utilicé la función `FILTER` para crear cintas desplegables condicionales que aseguran que campos como el cargo y horario seleccionados sean válidos y actuales.
 
 ### 2. Consolidación y Procesamiento (ETL)
 * **Macros de Consolidación:** Mediante Apps Script, la información se envía desde cada sucursal a una "Central de Solicitudes" como valores puros para mantener la integridad.
