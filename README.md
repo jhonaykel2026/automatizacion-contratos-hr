@@ -11,7 +11,7 @@ Antes de la implementación, el proceso presentaba fallas críticas de integrida
 * **Fragmentación:** Falta de estandarización en la captura de información en los distintos puntos de la red.
 
 ## 🛠️ Stack Tecnológico
-* **Google Apps Script:** Motor de lógica para consolidación de datos, automatización de correos y conversión de archivos.
+* **Google Apps Script:** Motor de lógica para consolidación de datos, automatización de correos y conversión de archivos(Lógica diseñada por mí e implementada mediante la optimización de scripts y herramientas de IA generativa para maximizar la eficiencia del código).
 * **Google Sheets:** Actúa como Base de Datos Maestra y Central de Solicitudes.
 * **Autocrat:** Herramienta para el mapeo de etiquetas (tags) y generación de documentos dinámicos.
 * **HTML/CSS:** Para el diseño y estructura de las notificaciones de correo electrónico.
